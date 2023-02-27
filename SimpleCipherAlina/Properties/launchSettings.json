@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleCipherAlina": {
+      "commandName": "Project",
+      "commandLineArgs": "encrypt -k C:\\Users\\nemts\\source\\repos\\SimpleCipherAlina\\keyFile.json -i C:\\Users\\nemts\\source\\repos\\SimpleCipherAlina\\encrypted.txt -u -c"
+    }
+  }
+}

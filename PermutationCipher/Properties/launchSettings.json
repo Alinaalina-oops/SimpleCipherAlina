@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PermutationCipher": {
+      "commandName": "Project",
+      "commandLineArgs": "decrypt -k C:\\Users\\nemts\\source\\repos\\SimpleCipherAlina\\keyForPermutation.json -i C:\\Users\\nemts\\source\\repos\\SimpleCipherAlina\\encrypted.txt -u"
+    }
+  }
+}

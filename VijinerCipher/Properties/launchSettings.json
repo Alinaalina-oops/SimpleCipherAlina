@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VijinerCipher": {
+      "commandName": "Project",
+      "commandLineArgs": "encrypt -k C:\\Users\\nemts\\source\\repos\\SimpleCipherAlina\\KeyForVij.json -a C:\\Users\\nemts\\source\\repos\\SimpleCipherAlina\\alphabet.txt  -i C:\\Users\\nemts\\source\\repos\\SimpleCipherAlina\\encrypted.txt -u -c"
+    }
+  }
+}
